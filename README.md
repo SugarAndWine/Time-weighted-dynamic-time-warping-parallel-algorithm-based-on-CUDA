@@ -1,0 +1,1 @@
+# Time-weighted-dynamic-time-warping-parallel-algorithm-based-on-CUDA
